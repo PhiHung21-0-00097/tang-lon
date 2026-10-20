@@ -232,7 +232,7 @@ export default function Page() {
                     <br /><br />
                     20/10 anh có món quá tinh thần dành cho em
                     <br /><br />
-                    Món quà này tuy đơn giản nhưng anh hứa với em chỉ có 1 và duy nhất trên thế giới vì toàn bộ đều làm = code từng dòng chữ anh bấm, chứ tk đéo nào bấm
+                    Món quà này tuy đơn giản nhưng anh hứa với em chỉ có 1 và duy nhất trên thế giới vì toàn bộ đều làm = code từng dòng chữ anh bấm, chứ tk đéo nào bấm nữa
                     <br /><br />
                     Sẽ ko có bản lời chúc nào tương tự như vậy cả, vì anh có làm bản thứ 2 đâu mà coá keke
                           <br /><br />
@@ -240,7 +240,7 @@ export default function Page() {
                     trong cuộc đời anh
                     <br /><br />
                     <span className="font-medium text-pink-200">
-                      Iu Iu 🌸
+                      Thưn Vailol🌸
                     </span>
                   </p>
                 </div>
